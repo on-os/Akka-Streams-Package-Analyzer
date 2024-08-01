@@ -3,7 +3,7 @@ ThisBuild / scalaVersion := "3.2.0"
 
 lazy val root = (project in file("."))
   .settings(
-    name := "Helen-Imah-SA1"
+    name := "Student Name-SA1"
   )
 
 val AKKA_VERSION = "2.7.0"
