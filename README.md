@@ -1,9 +1,4 @@
 # Akka Streams Package Analyzer
-This project is an implementation of a Pipe and Filter architecture using Akka Streams to process and filter NPM package metadata based on specific criteria, saving the results to an external file and printing to the terminal.
-
-# Akka Streams Package Analyzer
-
-## Overview
 This project is an implementation of a Pipe and Filter architecture using Akka Streams and Scala 3. The system processes a stream of NPM package metadata, filtering and analyzing the data based on specific criteria such as stars count, test coverage, release count, and commit activity. The results are displayed on the terminal and saved to an external file.
 
 ## Features
